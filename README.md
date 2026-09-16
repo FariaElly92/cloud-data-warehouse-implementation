@@ -27,3 +27,26 @@ This technical project management portfolio outlines the end-to-end cloud migrat
    └── 1.4 Handoff & Closing
        ├── 1.4.1 Power BI Dashboard Integration
        └── 1.4.2 Operations Training & Project Closeout Report
+## 📌 Project Milestones & Governance Schedule
+
+| Milestone Phase | Key Deliverable | Timeline | Approval Status |
+|---|---|---|---|
+| **Phase 1: Initiation** | Signed Charter & SLA Agreements | Weeks 1 - 2 | Completed |
+| **Phase 2: Architecture** | Approved Star Schema & ETL Mapping | Weeks 3 - 5 | Completed |
+| **Phase 3: Migration** | SQL Data Validation & Load Verification | Weeks 6 - 8 | Completed |
+| **Phase 4: Handoff** | Power BI Connection & Closeout Report | Weeks 9 - 10 | Completed |
+
+---
+
+## ⚙️ Quality Control & KPI Monitoring
+
+* **ETL Reliability Target:** Maintain $\ge 99.9\%$ uptime for automated nightly data extractions.
+* **Query Latency Goal:** Reduce average Power BI dashboard load times from 45 seconds to under 5 seconds using indexed SQL views.
+* **Data Integrity Standard:** 0% loss on financial transaction history during database migration.
+
+---
+
+## 👤 Project Lead & Documentation
+**Faria** — Technical Project Manager / Data Analyst  
+* Certified Google Project Management Professional  
+* M.Sc. Media Informatics
