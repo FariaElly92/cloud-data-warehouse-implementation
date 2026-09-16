@@ -27,6 +27,7 @@ This technical project management portfolio outlines the end-to-end cloud migrat
    └── 1.4 Handoff & Closing
        ├── 1.4.1 Power BI Dashboard Integration
        └── 1.4.2 Operations Training & Project Closeout Report
+---
 ## 📌 Project Milestones & Governance Schedule
 
 | Milestone Phase | Key Deliverable | Timeline | Approval Status |
